@@ -11,7 +11,7 @@ elements depending on passed operation symbol. Write appropriate function for ea
 [2_calculate.js](2_calculate.js)
 ___
 
-***3 Given a phone number. Write a function to clean it up, so it is valid. The rules are as follows:***\
+***3 Given a phone number. Write a function to clean it up, so it is valid. The rules are as follows:***
 - ***If the phone number is less than 10 digits assume that it is a bad number.***
 - ***If the phone number is longer than 10, then it is a bad number.***
 - ***If the phone number is 10 digits assume that it is good.***
